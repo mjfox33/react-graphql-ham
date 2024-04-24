@@ -37,3 +37,4 @@ next-env.d.ts
 
 # temp files
 /scripts/tmp
+.env
