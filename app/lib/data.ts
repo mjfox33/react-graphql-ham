@@ -3,7 +3,7 @@ import { unstable_noStore as noStore } from 'next/cache';
 import {
     LicenseTypeCounts
 } from './definitions';
-import { formatCurrency } from './utils';
+//import { formatCurrency } from './utils';
 
 export async function fetchLicenseTypesCounts() {
     noStore();
